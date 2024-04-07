@@ -1,0 +1,3685 @@
+Name: "City[a]"
+Details:
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Definition"
+Details:
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Tokyo"
+Details:
+  "Japan"
+  "37,468,000"
+  "Metropolis prefecture"
+  "13,515,271"
+  "2,191"
+  "6,169[13]"
+  "37,732,000"
+  "8,231"
+  "4,584[e]"
+  "37,274,000"
+  "13,452"
+  "2,771[14]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Delhi"
+Details:
+  "India"
+  "28,514,000"
+  "Municipal corporation"
+  "16,753,235"
+  "1,484"
+  "11,289[15]"
+  "32,226,000"
+  "2,344"
+  "13,748[f]"
+  "29,000,000"
+  "3,483"
+  "8,326[16]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Shanghai"
+Details:
+  "China"
+  "25,582,000"
+  "Municipality"
+  "24,870,895"
+  "6,341"
+  "3,922[17][18]"
+  "24,073,000"
+  "4,333"
+  "5,556[g]"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "S\227o Paulo"
+Details:
+  "Brazil"
+  "21,650,000"
+  "Municipality"
+  "12,252,023"
+  "1,521"
+  "8,055[19]"
+  "23,086,000"
+  "3,649"
+  "6,327[h]"
+  "21,734,682"
+  "7,947"
+  "2,735[20]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Mexico City"
+Details:
+  "Mexico"
+  "21,581,000"
+  "City-state"
+  "9,209,944"
+  "1,485"
+  "6,202[21]"
+  "21,804,000"
+  "2,530"
+  "8,618"
+  "21,804,515"
+  "7,866"
+  "2,772[22]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Cairo"
+Details:
+  "Egypt"
+  "20,076,000"
+  "Urban governorate"
+  "10,044,894"
+  "3,085"
+  "3,256[23]"
+  "20,296,000"
+  "2,010"
+  "10,098"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Mumbai"
+Details:
+  "India"
+  "19,980,000"
+  "Municipal corporation"
+  "12,478,447"
+  "603"
+  "20,694[24]"
+  "24,973,000"
+  "976"
+  "25,587[i]"
+  "24,400,000"
+  "4,355"
+  "5,603[25]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Beijing"
+Details:
+  "China"
+  "19,618,000"
+  "Municipality"
+  "21,893,095"
+  "16,411"
+  "1,334[17][18]"
+  "18,522,000"
+  "4,284"
+  "4,324"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Dhaka"
+Details:
+  "Bangladesh"
+  "19,578,000"
+  "Capital city"
+  "10,295,407"
+  "338"
+  "30,460[26][27]"
+  "18,627,000"
+  "619"
+  "30,092"
+  "14,543,124[28]"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Osaka"
+Details:
+  "Japan"
+  "19,281,000"
+  "Designated city"
+  "2,725,006"
+  "225"
+  "12,111[13]"
+  "15,126,000"
+  "3,020"
+  "5,009[j]"
+  "19,303,000"
+  "13,228"
+  "1,459[14]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "New York City"
+Details:
+  "United States"
+  "18,819,000"
+  "City"
+  "8,804,190"
+  "778"
+  "11,316[29]"
+  "21,509,000"
+  "12,093"
+  "1,779[k]"
+  "MSA: 19,557,311; CSA: 23,143,097 [30]"
+  "12,093"
+  "1,665"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Karachi"
+Details:
+  "Pakistan"
+  "15,400,000"
+  "Metropolitan city"
+  "20,382,881"
+  "3,530"
+  "5,774[31][32]"
+  "15,738,000"
+  "1,124"
+  "14,002"
+  "20,382,000"
+  "3,780"
+  "5,392[33][34]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Buenos Aires"
+Details:
+  "Argentina"
+  "14,967,000"
+  "Autonomous city"
+  "3,054,300"
+  "203"
+  "15,046[35]"
+  "16,710,000"
+  "3,437"
+  "4,862"
+  "12,806,866[36]"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Chongqing"
+Details:
+  "China"
+  "14,838,000"
+  "Municipality"
+  "32,054,159"
+  "82,403"
+  "389[37][18]"
+  "12,135,000"
+  "1,580"
+  "7,680"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Istanbul"
+Details:
+  "Turkey"
+  "14,751,000"
+  "Metropolitan municipality"
+  "15,519,267"
+  "5,196"
+  "2,987[38]"
+  "14,441,000"
+  "1,471"
+  "9,817"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Kolkata"
+Details:
+  "India"
+  "15,333,000"
+  "Municipal corporation"
+  "4,496,694"
+  "206"
+  "21,829[39]"
+  "21,747,000"
+  "1,352"
+  "16,085"
+  "15,333,000"
+  "1,887"
+  "8,126[40]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Manila"
+Details:
+  "Philippines"
+  "13,482,000"
+  "Capital city"
+  "1,780,148"
+  "43"
+  "41,399[41]"
+  "24,922,000"
+  "1,911"
+  "13,041[l]"
+  "12,877,253"
+  "620"
+  "20,770[41]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Lagos"
+Details:
+  "Nigeria"
+  "13,463,000"
+  "Metropolitan city"
+  "\8212"
+  "\8212"
+  "\8212"
+  "16,637,000"
+  "1,966"
+  "8,462"
+  "21,000,000"
+  "1,171"
+  "17,933[42]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Rio de Janeiro"
+Details:
+  "Brazil"
+  "13,293,000"
+  "Municipality"
+  "6,520,000"
+  "1,221"
+  "5,340[43]"
+  "12,592,000"
+  "2,020"
+  "6,234"
+  "12,644,321"
+  "5,327"
+  "2,374[44]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Tianjin"
+Details:
+  "China"
+  "13,215,000"
+  "Municipality"
+  "13,866,009"
+  "11,920"
+  "1,163[17][18]"
+  "10,368,000"
+  "2,813"
+  "3,686"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Kinshasa"
+Details:
+  "DR Congo"
+  "13,171,000"
+  "City-province"
+  "14,565,700"
+  "9,965"
+  "1,462[45]"
+  "12,836,000"
+  "474"
+  "27,080"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Guangzhou"
+Details:
+  "China"
+  "12,638,000"
+  "City (sub-provincial)"
+  "18,676,605"
+  "7,434"
+  "2,512[17]"
+  "26,940,000"
+  "4,535"
+  "5,940[m]"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Los Angeles"
+Details:
+  "United States"
+  "12,458,000"
+  "City"
+  "3,990,456"
+  "1,214"
+  "3,287[29]"
+  "15,204,000"
+  "6,351"
+  "2,394"
+  "MSA: 13,291,486; CSA: 18,372,485[46]"
+  "12,559"
+  "1,058"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Moscow"
+Details:
+  "Russia"
+  "12,410,000"
+  "Federal city"
+  "13,200,000"
+  "2,511"
+  "5,257[47][48]"
+  "17,332,000"
+  "6,154"
+  "2,816"
+  "20,004,462[49]"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Shenzhen"
+Details:
+  "China"
+  "11,908,000"
+  "City (sub-provincial)"
+  "17,494,398"
+  "2,050"
+  "8,534[17]"
+  "17,619,000"
+  "1,803"
+  "9,772"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Lahore"
+Details:
+  "Pakistan"
+  "11,738,000"
+  "Metropolitan city"
+  "13,004,135"
+  "1,772"
+  "7,339[50]"
+  "12,306,000"
+  "945"
+  "13,022"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Bangalore"
+Details:
+  "India"
+  "11,440,000"
+  "Municipal corporation"
+  "8,443,675"
+  "709"
+  "11,909[51]"
+  "15,386,000"
+  "1,401"
+  "10,982"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Paris"
+Details:
+  "France"
+  "10,901,000"
+  "Commune"
+  "2,148,271"
+  "105"
+  "20,460[52]"
+  "11,060,000"
+  "2,853"
+  "3,877"
+  "12,244,807"
+  "18,941"
+  "646"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Bogot\225"
+Details:
+  "Colombia"
+  "10,574,000"
+  "Capital District"
+  "7,963,000"
+  "1,587"
+  "5,018[53]"
+  "10,085,000"
+  "562"
+  "17,945"
+  "12,545,272"
+  "5,934"
+  "2,114[54]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Jakarta"
+Details:
+  "Indonesia"
+  "10,517,000"
+  "Special region"
+  "10,154,134"
+  "664"
+  "15,292[55]"
+  "33,756,000"
+  "3,546"
+  "9,519[n]"
+  "33,430,285"
+  "7,063"
+  "4,733[56]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Chennai"
+Details:
+  "India"
+  "10,456,000"
+  "Municipal corporation"
+  "6,727,000"
+  "426"
+  "15,791[57][58]"
+  "12,395,000"
+  "1,085"
+  "11,424"
+  "11,564,000"
+  "2,280"
+  "5,072[59]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Lima"
+Details:
+  "Peru"
+  "10,391,000"
+  "Metropolitan municipality"
+  "8,894,000"
+  "2,672"
+  "3,329[60]"
+  "10,320,000"
+  "891"
+  "11,582"
+  "9,569,468"
+  "2,819"
+  "3,395[61]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Bangkok"
+Details:
+  "Thailand"
+  "10,156,000"
+  "Special administrative area"
+  "8,305,218"
+  "1,569"
+  "5,293[62]"
+  "18,007,000"
+  "3,199"
+  "5,629"
+  "16,255,900"
+  "7,762"
+  "2,094[63]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Seoul"
+Details:
+  "South Korea"
+  "9,963,000"
+  "Special city"
+  "10,013,781"
+  "605"
+  "16,552[64]"
+  "23,016,000"
+  "2,769"
+  "8,312"
+  "25,514,000"
+  "11,704"
+  "2,180[64]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Nagoya"
+Details:
+  "Japan"
+  "9,507,000"
+  "Designated city"
+  "2,320,361"
+  "326"
+  "7,118[13]"
+  "9,197,000"
+  "3,704"
+  "2,483"
+  "9,363,000"
+  "7,271"
+  "1,288[14]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Hyderabad"
+Details:
+  "India"
+  "9,482,000"
+  "Municipal corporation"
+  "6,993,262"
+  "650"
+  "10,759[65][66]"
+  "10,494,000"
+  "1,404"
+  "7,474"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "London"
+Details:
+  "United Kingdom"
+  "9,046,000"
+  "Capital city"
+  "8,825,001"
+  "1,572"
+  "5,614[67]"
+  "11,262,000"
+  "1,738"
+  "6,480"
+  "14,372,596[68]"
+  "8,382"
+  "1,715"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Tehran"
+Details:
+  "Iran"
+  "8,896,000"
+  "Capital city"
+  "9,033,003"
+  "751"
+  "12,028[69][70]"
+  "14,148,000"
+  "1,704"
+  "8,303"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Chicago"
+Details:
+  "United States"
+  "8,864,000"
+  "City"
+  "2,746,388"
+  "589"
+  "4,663[29]"
+  "9,057,000"
+  "7,006"
+  "1,293"
+  "MSA: 9,618,502; CSA: 9,806,184[71]"
+  "18,640"
+  "516"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Chengdu"
+Details:
+  "China"
+  "8,813,000"
+  "City (sub-provincial)"
+  "20,937,757"
+  "14,378"
+  "1,456[17]"
+  "20,937,757"
+  "1,935"
+  "10,821"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Nanjing"
+Details:
+  "China"
+  "8,245,000"
+  "City (sub-provincial)"
+  "9,314,685"
+  "6,582"
+  "1,415[17]"
+  "8,422,000"
+  "1,614"
+  "5,218"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Wuhan"
+Details:
+  "China"
+  "8,176,000"
+  "City (sub-provincial)"
+  "12,447,718"
+  "8,494"
+  "1,465[17]"
+  "12,447,718"
+  "1,722"
+  "7,229"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Ho Chi Minh City"
+Details:
+  "Vietnam"
+  "8,145,000"
+  "Municipality"
+  "7,431,000"
+  "2,061"
+  "3,606[72]"
+  "15,136,000"
+  "2,165"
+  "6,991"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Luanda"
+Details:
+  "Angola"
+  "7,774,000"
+  "Municipality"
+  "2,165,867"
+  "116"
+  "18,671[73]"
+  "9,051,000"
+  "1,005"
+  "9,006"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Ahmedabad"
+Details:
+  "India"
+  "7,681,000"
+  "Municipal corporation"
+  "5,570,585"
+  "464"
+  "12,006[74]"
+  "8,009,000"
+  "404"
+  "19,824"
+  "6,300,000[75]"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Kuala Lumpur"
+Details:
+  "Malaysia"
+  "7,564,000"
+  "City"
+  "1,768,000"
+  "243"
+  "7,276[76]"
+  "8,911,000"
+  "2,163"
+  "4,120"
+  "7,200,000"
+  "2,793"
+  "2,578[77]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Xi'an"
+Details:
+  "China"
+  "7,444,000"
+  "City (sub-provincial)"
+  "12,183,280"
+  "10,135"
+  "1,202[17]"
+  "12,328,000"
+  "1,826"
+  "6,751"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Hong Kong"
+Details:
+  "China"
+  "7,429,000"
+  "Special administrative region"
+  "7,298,600"
+  "1,104"
+  "6,611[78][79]"
+  "7,450,000"
+  "290"
+  "25,690"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Dongguan"
+Details:
+  "China"
+  "7,360,000"
+  "Prefecture-level city"
+  "10,466,625"
+  "2,465"
+  "4,246[17]"
+  "10,646,000"
+  "1,759"
+  "6,052"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Hangzhou"
+Details:
+  "China"
+  "7,236,000"
+  "City (sub-provincial)"
+  "11,936,010"
+  "16,596"
+  "719[17]"
+  "9,523,000"
+  "1,344"
+  "7,086"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Foshan"
+Details:
+  "China"
+  "7,236,000"
+  "Prefecture-level city"
+  "9,498,863"
+  "3,848"
+  "2,469[17]"
+  "\8212[o]"
+  "\8212"
+  "\8212"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Shenyang"
+Details:
+  "China"
+  "6,921,000"
+  "City (sub-provincial)"
+  "8,294,000"
+  "12,980"
+  "639[17]"
+  "7,964,000"
+  "1,551"
+  "5,135[p]"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Riyadh"
+Details:
+  "Saudi Arabia"
+  "6,907,000"
+  "Municipality"
+  "6,694,000"
+  "1,913"
+  "3,499[80]"
+  "7,237,000"
+  "1,673"
+  "4,326"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Baghdad"
+Details:
+  "Iraq"
+  "6,812,000"
+  "Urban governorate"
+  "8,126,755"
+  "5,200"
+  "1,563[81]"
+  "6,183,000"
+  "694"
+  "8,909"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Santiago"
+Details:
+  "Chile"
+  "6,680,000"
+  "City (commune)"
+  "236,453"
+  "22"
+  "10,748[82]"
+  "7,171,000"
+  "1,147"
+  "6,252"
+  "7,112,808"
+  "15,403"
+  "462[83]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Surat"
+Details:
+  "India"
+  "6,564,000"
+  "Municipal corporation"
+  "4,466,826"
+  "327"
+  "13,660[84]"
+  "6,538,000"
+  "238"
+  "27,471"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Madrid"
+Details:
+  "Spain"
+  "6,497,000"
+  "Municipality"
+  "3,266,126"
+  "606"
+  "5,390[85]"
+  "6,211,000"
+  "1,365"
+  "4,550"
+  "6,641,649"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Suzhou"
+Details:
+  "China"
+  "6,339,000"
+  "Prefecture-level city"
+  "12,748,262"
+  "8,488"
+  "1,502[17]"
+  "6,031,000"
+  "1,386"
+  "4,351"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Pune"
+Details:
+  "India"
+  "6,276,000"
+  "Municipal corporation"
+  "3,124,458"
+  "276"
+  "11,321[86]"
+  "8,231,000"
+  "650"
+  "12,663"
+  "7,276,000"
+  "7,256"
+  "1,003[87]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Harbin"
+Details:
+  "China"
+  "6,115,000"
+  "City (sub-provincial)"
+  "10,635,971"
+  "53,068"
+  "200[17]"
+  "3,830,000"
+  "671"
+  "5,708"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Houston"
+Details:
+  "United States"
+  "6,115,000"
+  "City"
+  "2,325,502"
+  "1,553"
+  "1,497[29]"
+  "6,500,000"
+  "4,931"
+  "1,318"
+  "6,997,384"
+  "21,395"
+  "327[88]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Dallas"
+Details:
+  "United States"
+  "6,099,000"
+  "City"
+  "1,345,047"
+  "882"
+  "1,525[29]"
+  "6,950,000"
+  "5,278"
+  "1,317[q]"
+  "7,470,158"
+  "22,463"
+  "333[89]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Toronto"
+Details:
+  "Canada"
+  "6,082,000"
+  "City"
+  "2,731,571"
+  "630"
+  "4,336[90][91]"
+  "6,771,000"
+  "2,344"
+  "2,889"
+  "5,928,040"
+  "5,906"
+  "1,004[92]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Dar es Salaam"
+Details:
+  "Tanzania"
+  "6,048,000"
+  "City"
+  "5,383,728"
+  "1,393"
+  "3,865[93]"
+  "7,962,000"
+  "961"
+  "8,285"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Miami"
+Details:
+  "United States"
+  "6,036,000"
+  "City"
+  "470,914"
+  "93"
+  "5,069[29]"
+  "6,058,000"
+  "3,313"
+  "1,829"
+  "6,158,824"
+  "15,890"
+  "388"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Belo Horizonte"
+Details:
+  "Brazil"
+  "5,972,000"
+  "City"
+  "2,502,557"
+  "331"
+  "7,563"
+  "5,328,000"
+  "1,287"
+  "4,140"
+  "5,156,217"
+  "9,459"
+  "545"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Singapore"
+Details:
+  "Singapore"
+  "5,792,000"
+  "Country"
+  "5,638,700"
+  "726"
+  "7,770"
+  "5,983,000"
+  "523"
+  "11,440"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Philadelphia"
+Details:
+  "United States"
+  "5,695,000"
+  "Consolidated city-county"
+  "1,526,006"
+  "370"
+  "4,129"
+  "5,799,000"
+  "5,429"
+  "1,068"
+  "MSA: 6,096,120; CSA: 7,381,187"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Atlanta"
+Details:
+  "United States"
+  "5,572,000"
+  "City"
+  "498,715"
+  "354"
+  "1,408"
+  "5,478,000"
+  "7,400"
+  "740"
+  "5,949,951"
+  "21,690"
+  "274"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Fukuoka"
+Details:
+  "Japan"
+  "5,551,000"
+  "Designated city"
+  "1,588,924"
+  "343"
+  "4,627"
+  "2,286,000"
+  "505"
+  "4,527"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Khartoum"
+Details:
+  "Sudan"
+  "5,534,000"
+  "\8212"
+  "1,410,858[94]"
+  "\8212"
+  "\8212"
+  "7,869,000"
+  "1,031"
+  "7,632"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Barcelona"
+Details:
+  "Spain"
+  "5,494,000"
+  "Municipality"
+  "1,620,343"
+  "101"
+  "15,980[95]"
+  "4,800,000"
+  "1,072"
+  "4,478"
+  "5,474,482[96]"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Johannesburg"
+Details:
+  "South Africa"
+  "5,486,000"
+  "Metropolitan municipality"
+  "4,803,262"
+  "1,643"
+  "2,924[97]"
+  "14,586,000"
+  "4,040"
+  "3,610[r]"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Saint Petersburg"
+Details:
+  "Russia"
+  "5,383,000"
+  "Federal city"
+  "5,601,911"
+  "1,400"
+  "4,001[98]"
+  "5,445,000"
+  "1,510"
+  "3,606"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Qingdao"
+Details:
+  "China"
+  "5,381,000"
+  "City (sub-provincial)"
+  "10,071,722"
+  "11,229"
+  "897[99]"
+  "6,229,000"
+  "1,759"
+  "3,541"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Dalian"
+Details:
+  "China"
+  "5,300,000"
+  "City (sub-provincial)"
+  "7,450,785"
+  "13,742"
+  "542[100]"
+  "4,135,000"
+  "1,044"
+  "3,961"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Washington"
+Details:
+  "United States"
+  "5,207,000"
+  "Federal district"
+  "702,455"
+  "177"
+  "3,969[29]"
+  "7,631,000"
+  "5,501"
+  "1,387[s]"
+  "6,263,245"
+  "17,009"
+  "368[101]"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Yangon"
+Details:
+  "Myanmar"
+  "5,157,000"
+  "City"
+  "4,728,524[102]"
+  "\8212"
+  "\8212"
+  "6,874,000"
+  "666"
+  "10,321"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Alexandria"
+Details:
+  "Egypt"
+  "5,086,000"
+  "Urban governorate"
+  "5,441,866"
+  "2,300"
+  "2,366[103]"
+  "4,712,000"
+  "293"
+  "16,082"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Jinan"
+Details:
+  "China"
+  "5,052,000"
+  "City (sub-provincial)"
+  "9,202,432"
+  "10,244"
+  "898[17][18]"
+  "4,017,000"
+  "932"
+  "4,310"
+  "\8212"
+  "\8212"
+  "\8212"
+Timestamp: 2024-04-06 17:34:02
+
+Name: "Guadalajara"
+Details:
+  "Mexico"
+  "5,023,000"
+  "Municipality"
+  "1,385,621"
+  "151"
+  "9,176[21]"
+  "5,525,000"
+  "816"
+  "6,771"
+  "5,286,642"
+  "3,560"
+  "1,485"
+Timestamp: 2024-04-06 17:34:02
+
+
+Name: "Image"
+Details:
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Ford Model T"
+Details:
+  1927 Ford Model-T.
+  1908\8211\&27
+  16,500,000[8]
+  The first car to achieve one million, five million, ten million and fifteen million units sold. By 1914, it was estimated that nine out of every ten cars in the world were Fords.[8]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Lada \"Classic\""
+Details:
+  
+  1970\8211\&2012[9]
+  17,750,000[10]
+  The number does not include the platform's archetype Fiat 124 and its other license-built examples (e.g. SEAT 124, SEAT 1430).
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Volkswagen Beetle"
+Details:
+  
+  1938\8211\&2003
+  21,529,464[3]
+  The first car to achieve twenty million units sold.[1]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Toyota Corolla"
+Details:
+  2019 Toyota Corolla.
+  1966\8211present
+  50,000,000 by 2021[2]
+  The 50 million milestone was reached in 2021. However, the model type has been different over the years.[2]
+Timestamp: 2024-04-06 18:21:35
+
+
+Name: "Country"
+Details:
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Ford Falcon"
+Details:
+  Australia
+  
+  1960\8211\&2016
+  Over 3,578,689.[11]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Toyota HiLux"
+Details:
+  Argentina
+  
+  1960\8211present
+  Approximately 17,700,000, number reached in 2017.[12]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Toyota Corolla"
+Details:
+  Bangladesh
+  Twelfth generation Toyota Corolla.
+  1966\8211present
+  [13][14]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Volkswagen Gol[15]"
+Details:
+  Brazil
+  2007 Volkswagen Gol Plus.
+  1980\8211\&2023
+  7,000,000, number reached on December 12, 2022.[16]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Wuling Hongguang"
+Details:
+  China
+  
+  2010\8211present
+  4,549,592 to December 2020.[17]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "\352koda Octavia"
+Details:
+  Czech Republic
+  \352koda Octavia 1st generation after facelift
+  1996\8211present
+  Over 6,000,000 to 2016.[18]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Renault Clio"
+Details:
+  France
+  Fourth generation Renault Clio.
+  1990\8211present
+  12,300,000 to 2013.[19]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Volkswagen Golf[15]"
+Details:
+  Germany
+  Volkswagen Golf .
+  1974\8211present
+  Over 25,000,000 to 2006.[20]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Maruti Suzuki Alto"
+Details:
+  India
+  Maruti Suzuki Alto
+  2000\8211present
+  4,000,000 until 2020.[21]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Toyota Avanza"
+Details:
+  Indonesia
+  Toyota Avanza
+  2003\8211present
+  1,800,000 units sold from 2003 to December 2019 in two generations.[22]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Fiat Uno"
+Details:
+  Italy
+  First generation Fiat Uno.
+  1983\8211\&1995 (in Italy)
+  Over 8,000,000.[23]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Toyota Corolla"
+Details:
+  Japan
+  Twelfth generation Toyota Corolla.
+  1966\8211present
+  Over 50,000,000
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Proton Saga"
+Details:
+  Malaysia
+  
+  1985\8211present
+  1,900,000 since 1985.[24]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Polski Fiat 126p"
+Details:
+  Poland
+  
+  1973\8211\&2000
+  3,318,674 in Poland.[25][26]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Dacia 1300"
+Details:
+  Romania
+  
+  1969\8211\&2004
+  1,959,730 sold in Romania.[27][28]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "SEAT Ibiza"
+Details:
+  Spain
+  
+  1984\8211present
+  3,949,597 up to 2008.[29]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Volvo 200 Series"
+Details:
+  Sweden
+  Volvo 240 station wagon.
+  1974\8211\&93
+  2,862,573.[30]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Renault Symbol"
+Details:
+  Turkey
+  Second generation Renault Symbol.
+  1999\8211\&2021
+  260,000 up to 2013.[31][32]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "ZAZ Zaporozhets"
+Details:
+  Ukraine
+  Zaporozhets.
+  1960\8211\&94
+  3,422,444.[33]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Mini"
+Details:
+  United Kingdom
+  1993 Mini Cooper.
+  1959\8211\&2000
+  5,505,874.[34]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Ford F-Series"
+Details:
+  United States
+  2021 F-150 Double Cab
+  1948\8211present
+  Over 40,000,000.[35]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Toyota Vios"
+Details:
+  Vietnam
+  2017 Toyota Vios 1.5L.
+  2013\8211present
+  67,787 up to 2018.
+Timestamp: 2024-04-06 18:21:35
+
+
+Name: "Brand"
+Details:
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Alfa Romeo Alfasud"
+Details:
+  Alfa Romeo
+  1979 Alfasud ti
+  1972\8211\&1989
+  1,017,387.[36]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Alpine A310"
+Details:
+  Alpine
+  Alpine-Renault A310
+  1971\8211\&1984
+  11,616.[37]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "AMC Hornet"
+Details:
+  American Motors
+  AMC Hornet.
+  1970\8211\&1977
+  Approximately 860,000.[38][39]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Aston Martin DB7"
+Details:
+  Aston Martin
+  Aston Martin DB7 Volante.
+  1993\8211\&2003
+  7,000[40][41]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Audi A4"
+Details:
+  Audi
+  
+  1994\8211present
+  Over 7,500,000 to 2019[42]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Autobianchi A112"
+Details:
+  Autobianchi
+  1973 Autobianchi A112 E.
+  1969\8211\&1986
+  1,254,178.[43]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Baojun 510"
+Details:
+  Baojun
+  Baojun 510
+  2017\8211present
+  972,042 to 2021.[44]
+  Notable for being a highest-selling newly introduced automobile nameplate in world's history.[45]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "BMW 3 Series"
+Details:
+  BMW
+  First generation BMW 3 Series coup\233.
+  1975\8211present
+  Over 14,000,000 to 2015.
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Buick LeSabre"
+Details:
+  Buick
+  1986 Buick LeSabre.
+  1959\8211\&2005
+  Over 6,000,000.[46]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Bugatti Type 40"
+Details:
+  Bugatti
+  1929 Bugatti Typ 40 Grand Sport Tourer.
+  1926\8211\&1930
+  Approximately 800.[47]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "BYD F3"
+Details:
+  BYD
+  
+  2005\8211\&2022
+  1,684,904, excluding exports.[48]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Cadillac De Ville"
+Details:
+  Cadillac
+  Cadillac De Ville.
+  1959\8211\&2005
+  Approximately 3,870,000 excluding early Series 62 hardtops, 1981\8211\&1988, 1991\8211\&93, and 2000\8211\&05. (Total production for 1981\8211\&1988, 1991\8211\&93 and 2000\8211\&05 is unknown but a good guess is over 1,300,000.)[38][39]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Checker Marathon"
+Details:
+  Checker
+  Checker Marathon.
+  1961\8211\&1982
+  10,559 not counting taxicabs and private sales for 1961\8211\&63, 1976 and 1980\8211\&82 (private sales for 1961\8211\&62, 1976 and 1980\8211\&82 are unknown).[38][39]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Chevrolet Impala"
+Details:
+  Chevrolet
+  1965 Chevrolet Impala.
+  1958\8211\&2020
+  Over 13,000,000 to 1996.[49]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Chrysler Newport"
+Details:
+  Chrysler
+  1961 Chrysler Newport.
+  1961\8211\&1981
+  Approximately 1,920,000 (excluding early Newport hardtops).[38][39]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Citro\235n 2CV"
+Details:
+  Citro\235n
+  First generation Citro\235n 2CV.
+  1948\8211\&1990
+  3,872,583.  Including commercial variants, the total figure is approximately nine million[50]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Continental Mark II"
+Details:
+  Continental
+  Continental Mark II.
+  1956\8211\&1957
+  3,012 (only car produced by the short lived Continental division of the Ford Motor Company).[38]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Crosley"
+Details:
+  Crosley
+  1948 Crosley.
+  1939\8211\&19421946\8211\&1949
+  62,210 before introduction of series names in 1950 (does not include 1949 Hot Shot).[38][51]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Dacia Sandero"
+Details:
+  Dacia
+  Dacia Sandero.
+  2008\8211present
+  over 2,700,000 (includes the Stepway version).
+Timestamp: 2024-04-06 18:21:35
+
+Name: "DeSoto Custom"
+Details:
+  DeSoto
+  Dodge DeSoto Custom.
+  1939\8211\&19421946\8211\&1952
+  Approximately 570,000.[38][51]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "De Tomaso Pantera"
+Details:
+  De Tomaso
+  De Tomaso Pantera.
+  1970\8211\&1991
+  7,260 produced over a single generation[52]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Dodge Coronet"
+Details:
+  Dodge
+  Dodge Coronet.
+  1949\8211\&19591965\8211\&1976
+  Approximately 2,060,000 in six generations not counting 1949\8211\&53 4-doors, 1953 coupes, Dodge Chargers and Super Bees. (Production of 1949\8211\&53 4-doors and 1953 coupes is unknown but a reasonable guess is about 400,000 total.
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Eagle Talon"
+Details:
+  Eagle
+  Eagle Talon.
+  1990\8211\&1998
+  Approximately 200,000.[53]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Edsel Ranger"
+Details:
+  Edsel
+  1959 Edsel Ranger.
+  1958\8211\&1960
+  50,803.[38]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Excalibur Series II"
+Details:
+  Excalibur
+  Excalibur Series II.
+  1970\8211\&1982
+  2,230.[54]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Facellia"
+Details:
+  Facel
+  1961 Facel Vega Facellia
+  1960\8211\&1964
+  1,500[55]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Ferrari 360"
+Details:
+  Ferrari
+  Ferrari 360 Modena.
+  1999\8211\&2004
+  Over 17,000 coup\233s and convertibles.[56]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Fiat Uno"
+Details:
+  Fiat
+  First generation Fiat Uno.
+  1983\8211present
+  Approximately 8,800,000 worldwide to 2004.
+  Sold over six million in Western Europe before being replaced by the Punto in 1995, while production continued in South Africa, Poland and Brazil.[57]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Ford F-Series"
+Details:
+  Ford
+  1955 Ford F-100.
+  1948\8211present
+  Over 40,000,000. America's bestselling vehicle for 40 consecutive years;[35] 33,900,000 in 12 generations to May 2010.[58]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Frazer Standard"
+Details:
+  Frazer
+  
+  1947\8211\&1951
+  Approximately 90,000.[38]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Haval H6"
+Details:
+  Haval
+  
+  2012\8211present
+  3,892,260 between 2012 2022, excluding exports.[59]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Henry J Deluxe"
+Details:
+  Henry J
+  1951 Henry J.
+  1951
+  43,400.[38]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Hindustan Ambassador"
+Details:
+  Hindustan
+  Hindustan Ambassador.
+  1958\8211\&2014
+  Almost 4,000,000.[60]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Holden Commodore"
+Details:
+  Holden
+  Holden Commodore (VE).
+  1978\8211\&2019
+  3,130,000 to 2013.[61]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Honda Civic"
+Details:
+  Honda
+  First generation Honda Civic.
+  1972\8211present
+  Over 27,000,000 up to 2021.[62]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Hudson Super Six"
+Details:
+  Hudson
+  Hudson Super.
+  1916\8211\&192819331940\8211\&19421946\8211\&1951
+  Approximately 600,000 not counting 1916\8211\&17 and 1940\8211\&42. (Production for 1916\8211\&17 and 1940\8211\&42 is unknown but a reasonable guess is about 80,000.)[38][51]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Hyundai Elantra"
+Details:
+  Hyundai
+  Hyundai Elantra
+  1990\8211present
+  14,400,000 up to 2022.[63]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Imperial Crown"
+Details:
+  Imperial
+  1966 Imperial Crown convertible.
+  1957\8211\&1970
+  Approximately 127,000.[38]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Jaguar XJ"
+Details:
+  Jaguar
+  1972 Jaguar XJ12.
+  1968\8211\&2019
+  800,000 up to 2005.[64]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Jeep Cherokee (XJ)"
+Details:
+  Jeep
+  2000 Jeep Cherokee.
+  1984\8211\&2014
+  2,884,172 in North America until 2001; production continued in China until 2005.[65]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Kaiser Deluxe"
+Details:
+  Kaiser
+  Kaiser Deluxe
+  1949\8211\&1953
+  Approximately 130,000.[38]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Koenigsegg Jesko"
+Details:
+  Koenigsegg
+  Koenigsegg Jesko
+  2021\8211present
+  125.[66]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Lada RivaVAZ-2105/04/07"
+Details:
+  Lada/AvtoVAZ
+  
+  1980\8211\&2014
+  13,500,000 until exports to Europe were discontinued in 1997.
+  Production continues in Egypt.[67]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Lamborghini Urus"
+Details:
+  Lamborghini
+  2019 Lamborghini Urus
+  2018\8211present
+  over 20,000[68]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Lancia Ypsilon"
+Details:
+  Lancia
+  2012 Lancia Ypsilon
+  1996\8211present
+  over 870,000 to 2005.[69]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Series/Defender"
+Details:
+  Land Rover
+  
+  1948\8211\&20162020\8211present
+  over 2,000,000 (approx)[70]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Lincoln Town Car"
+Details:
+  Lincoln
+  Lincoln Town Car.
+  1981\8211\&2011
+  Approximately 2,290,000 not counting 2005\8211\&2011. (Production of 2005\8211\&2011 is unknown but a reasonable guess is about 160,000.)[39][71]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Lotus Elise"
+Details:
+  Lotus
+  Lotus Elise 111S.
+  1996\8211\&2021
+  over 20,000 produced over two generations to December 2004.[72]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "McLaren 12C"
+Details:
+  McLaren
+  2012 McLaren MP4-12C.
+  2011\8211\&2014
+  Over 3,400 12Cs were made, sales split 60/40 in the coupe\8217s favour.[73]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Maserati Biturbo"
+Details:
+  Maserati
+  Maserati Biturbo S.
+  1981\8211\&1994
+  Over 38,000[74]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Mazda Familia"
+Details:
+  Mazda
+  Mazda 323 Turbo.
+  1963\8211\&2003
+  Over 10,000,000 up to 1995.[75]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Mercedes-Benz C-Class"
+Details:
+  Mercedes-Benz
+  Merceds-Benz C-Class.
+  1993\8211present
+  6,900,000 to November 2006.[76]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Mercury Cougar"
+Details:
+  Mercury
+  1994-1997 Mercury Cougar XR7
+  1967\8211\&1997\n1999\8211\&2002
+  2,972,784
+  Excludes Ford Cougar sold in Europe and Australia.
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Messerschmitt KR200"
+Details:
+  Messerschmitt
+  1955 Messerschmitt KR200.
+  1955\8211\&1964
+  30,286
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Metropolitan"
+Details:
+  Metropolitan
+  1959 Metropolitan
+  1958\8211\&1961
+  55,215 as a separate marque under AMC.[77]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Mitsubishi Lancer"
+Details:
+  Mitsubishi
+  Ninth-generation Mitsubishi Lancer.
+  1973\8211\&2017
+  Over 6,000,000 to the end of 2006.[78]
+  Production continues in Taiwan and China
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Nash Statesman"
+Details:
+  Nash
+  Nash Statesman.
+  1950\8211\&1956
+  Approximately 340,000.[38]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Nissan Sunny/Sentra/Pulsar/Almera"
+Details:
+  Nissan
+  1972 Datsun 1200.
+  1966\8211present
+  Over 15,900,000.[67] Ten generations, and four nameplates depending on marketplace.
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Oldsmobile Cutlass Supreme"
+Details:
+  Oldsmobile
+  Image:1971 Oldsmobile Cutlass Supreme convertible.
+  1961\8211\&1999
+  11,900,000 across several platforms and generations.[79]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Opel Corsa"
+Details:
+  Opel
+  First generation Opel Corsa, sold in the United Kingdom as a Vauxhall Nova.
+  1982\8211present
+  Over 18,000,000 sold worldwide in 25 years and in 4 generations up to 2007. 10\160million of them were sold only in Europe.[80]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Packard Eight"
+Details:
+  Packard
+  Packard Eight.
+  1933\8211\&36193819421948\8211\&1950
+  Approximately 250,000.[38][51]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Peel Trident"
+Details:
+  Peel
+  1965 Peel Trident.
+  1965\8211\&1966
+  82 in a single generation.[81]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Perodua Myvi"
+Details:
+  Perodua
+  
+  2005\8211present
+  1,400,000 since 2005.[82]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Peugeot 206"
+Details:
+  Peugeot
+  Peugeot 206.
+  1998\8211\&2013
+  Approximately 10,000,000 to 2018 in a single generation.[83]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Plymouth Fury"
+Details:
+  Plymouth
+  
+  1959\8211\&1978
+  Approximately 3,680,000 (counting VIPs, but not counting 1959 and 1962 Sport Furys and 1975\8211\&77 Gran Furys).[38][39]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Pontiac Grand Am"
+Details:
+  Pontiac
+  2005 Pontiac Grand Am.
+  1973\8211\&1975, 1978\8211\&1980, 1985\8211\&2005
+  Over 4,000,000.
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Porsche 911"
+Details:
+  Porsche
+  
+  1963\8211present
+  1,000,000 produced up to 2017.[84]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Proton Saga"
+Details:
+  Proton
+  Proton Saga
+  1985\8211present
+  1,900,000 since 1985.
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Rambler Classic"
+Details:
+  Rambler
+  Rambler Classic.
+  1961\8211\&1966
+  Approximately 1,460,000 (including those produced in 1966 under AMC).[38][39]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Renault Clio"
+Details:
+  Renault
+  Third generation Renault Clio.
+  1990\8211present
+  12,300,000 across four generations up to 2013.[19]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Rolls-Royce Silver Shadow"
+Details:
+  Rolls-Royce
+  Rolls Royce Silver Shadow
+  1965\8211\&1980
+  29,030 produced over a single generation.[85]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Saab 900"
+Details:
+  Saab
+  1985 Saab 900CD.
+  1978\8211\&1993
+  908,810.[86] in the first generation.
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Saturn S-Series"
+Details:
+  Saturn
+  Saturn SL
+  1991\8211\&2002
+  Approximately 2,210,000 not counting 2002 (sales of 2002 are unknown).[87]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "SEAT Ibiza"
+Details:
+  SEAT
+  SEAT Ibiza Mk4 (2008).
+  1984\8211present
+  3,949,597 up to 2008.[29]
+  The sales of the fourth generation of the SEAT Ibiza, as well as those of its derivatives (such as the SEAT C\243rdoba and the SEAT Inca, or the rebadged versions) are not included in the figures.
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Simca 1100"
+Details:
+  Simca
+  Simca 1100.
+  1967\8211\&1982
+  2,139,400
+  Figures include a small number of complete knock down (CKD) kits and commercial versions.[88]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Smart Fortwo"
+Details:
+  Smart
+  2004 Smart Fortwo
+  1998\8211present
+  Over 1,500,000 by mid-2013.[89]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Studebaker Champion"
+Details:
+  Studebaker
+  Studebaker Champion.
+  1939\8211\&19421946\8211\&1958
+  Approximately 1,320,000.[38][51]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Subaru Legacy"
+Details:
+  Subaru
+  Third generation Subaru Legacy.
+  1988\8211present
+  Over 3,000,000 to 2005.[90]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "\352koda Octavia"
+Details:
+  \352koda
+  \352koda Octavia 1st generation after facelift
+  1996\8211present
+  Over 6,000,000 to 2016.[18]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Tatuus FR2000"
+Details:
+  Tatuus
+  Tatuus FR2000
+  2000\8211\&2007
+  Approximately 930 chassis.[91][92]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Toyota Corolla"
+Details:
+  Toyota
+  A 1976 Toyota Corolla.
+  1966\8211present
+  50,000,000 up to 2021[2]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Tesla Model Y"
+Details:
+  Tesla
+  Tesla Model Y
+  2020\8211present
+  2,160,000 up to December 2023[93]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Trabant 601"
+Details:
+  Trabant
+  1983 Trabant P601.
+  1957\8211\&1991
+  Over 3,000,000.[94]
+  
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Volkswagen Golf"
+Details:
+  Volkswagen
+  Mk.1 Volkswagen Golf.
+  1974\8211present
+  35,000,000 across seven generations by 2019.[95] Became Volkswagen's bestseller in 2002.[96]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Volvo 200 Series"
+Details:
+  Volvo
+  Volvo 240 sedan.
+  1974\8211\&1993
+  2,862,573 saloon, estate and coupe models over a spell of 19 years.[30]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Willys 77"
+Details:
+  Willys
+  1936 Willys 77.
+  1933\8211\&1936
+  Approximately 68,000.[97]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Zastava 101"
+Details:
+  Zastava
+  Zastava 101.
+  1971-2008
+  1,045,458
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Zaporozhets"
+Details:
+  ZAZ
+  Zaporozhets.
+  1960\8211\&1994
+  3,422,444.[33]
+Timestamp: 2024-04-06 18:21:35
+
+
+Name: "Class"
+Details:
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Tesla Model 3"
+Details:
+  All-electric car
+  Tesla Model 3.
+  2017\8211present
+  Over 1,000,000 by June 2021 since inception.[98]
+  Since January 2020 is the world's all-time best selling battery electric car, and also the top selling passenger car of the more general category of plug-in electric cars.[99] It surpassed the Nissan Leaf (450,000 units up until December 2019).[100]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Chevrolet Impala"
+Details:
+  Full-size car
+  1958 Chevrolet Impala.
+  1958\8211\&19851994\8211\&19962000\8211\&2020
+  Over 13,000,000 between its introduction and 1996.[49]
+  The bestselling car in America in a single year, with 1,046,514 sold in 1965 including the Impala SS.[38]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Toyota Prius"
+Details:
+  Hybrid electric vehicle
+  2017 Toyota Prius
+  1997\8211present
+  5,000,000 in four generations up to September 2022.[101] Combined sales of the Prius family nameplate totaled over 6,000,000 units in January 2017.[102]
+  The world's all-time best selling hybrid electric vehicle.[103]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Toyota Mirai"
+Details:
+  Hydrogen fuel cell car
+  Toyota Mirai
+  2015\8211present
+  2,840 units by mid-February 2017 in Japan, the United States, some European markets and the United Arab Emirates.[104]
+  
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Ford F-Series"
+Details:
+  Pickup truck
+  Ford F-150 SVT Lightning.
+  1948\8211present
+  Over 34,000,000 America's bestselling vehicle for 28 consecutive years;[58] 33,900,000 in 12 generations to May 2010.[58]
+  World's bestselling truck for 43 consecutive years.[105]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Mitsubishi Outlander P-HEV"
+Details:
+  Plug-in hybrid
+  Mitsubishi Outlander P-HEV.
+  2013\8211present
+  300,000 in January 2022 since inception.[106]
+  The world's all-time best-selling plug-in hybrid car.[107] It surpassed the Chevrolet Volt in December 2018.[107]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Cadillac De Ville"
+Details:
+  Full-size luxury car
+  Cadillac De Ville.
+  1959\8211\&2005
+  Approximately 3,870,000 excluding early Series 62 hardtops, 1981\8211\&1988, 1991\8211\&93, and 2000\8211\&05. (Total production for 1981\8211\&1988, 1991\8211\&93 and 2000\8211\&05 is unknown but a good guess is over 1,300,000.)[38][39]
+  
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Porsche 911 GT3 Cup"
+Details:
+  Racing car
+  Porsche 997 GT3 Cup.
+  1998\8211present
+  1,400 up to 2011[108][109]
+  
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Tatuus FR2000"
+Details:
+  Formula racing car
+  Tatuus FR2000
+  2000\8211\&2007
+  Approximately 930 chassis.[91][92]
+  
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Mazda RX-7"
+Details:
+  Rotary engined car
+  A first-generation Mazda RX-7.
+  1978\8211\&2002
+  811,634 in three generations to 2005.[110]
+  
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Iso/BMW/VELAM/Romi Isetta"
+Details:
+  Single-cylinder car
+  BMW Isetta.
+  1953\8211\&1961
+  161,728 in all variations[111]
+  
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Ford Mustang"
+Details:
+  Four-seat sports car(Pony car)
+  First 1964 1/2 Ford Mustang
+  1964\8211present
+  10,000,000 in six generations up to 2018.[112]
+  
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Nissan Z-cars"
+Details:
+  Two-seat coupe Sports car
+  1970 Datsun 240Z.
+  1969\8211\&19992003\8211present
+  1,535,000 in five generations up to 2005.[113]
+  
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Mazda MX-5"
+Details:
+  Two-seat convertible sports car
+  .
+  1989\8211present
+  Over 940,000 in the first two generations to June 2014.[114]
+  Verified by the Guinness Book of Records as the bestselling two-seater, convertible (open top) sports car in history.[114]
+Timestamp: 2024-04-06 18:21:35
+
+Name: "Volkswagen Type 2 (Transporter)"
+Details:
+  Van
+  
+  1950\8211present
+  Over 12,000,000 in six generations to August 2015[115]
+  Best-selling van nameplate of all-time.[115] Second-generation T2 sold for 46 years (1967\8211\&2013), longest production run of any van and second-longest production of any Volkswagen (except for Type 1 Beetle).
+Timestamp: 2024-04-06 18:21:35
+
+
+Name: "City[a]"
+Details:
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Definition"
+Details:
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Tokyo"
+Details:
+  Japan
+  37,468,000
+  Metropolis prefecture
+  13,515,271
+  2,191
+  6,169[13]
+  37,732,000
+  8,231
+  4,584[e]
+  37,274,000
+  13,452
+  2,771[14]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Delhi"
+Details:
+  India
+  28,514,000
+  Municipal corporation
+  16,753,235
+  1,484
+  11,289[15]
+  32,226,000
+  2,344
+  13,748[f]
+  29,000,000
+  3,483
+  8,326[16]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Shanghai"
+Details:
+  China
+  25,582,000
+  Municipality
+  24,870,895
+  6,341
+  3,922[17][18]
+  24,073,000
+  4,333
+  5,556[g]
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "S\227o Paulo"
+Details:
+  Brazil
+  21,650,000
+  Municipality
+  12,252,023
+  1,521
+  8,055[19]
+  23,086,000
+  3,649
+  6,327[h]
+  21,734,682
+  7,947
+  2,735[20]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Mexico City"
+Details:
+  Mexico
+  21,581,000
+  City-state
+  9,209,944
+  1,485
+  6,202[21]
+  21,804,000
+  2,530
+  8,618
+  21,804,515
+  7,866
+  2,772[22]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Cairo"
+Details:
+  Egypt
+  20,076,000
+  Urban governorate
+  10,044,894
+  3,085
+  3,256[23]
+  20,296,000
+  2,010
+  10,098
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Mumbai"
+Details:
+  India
+  19,980,000
+  Municipal corporation
+  12,478,447
+  603
+  20,694[24]
+  24,973,000
+  976
+  25,587[i]
+  24,400,000
+  4,355
+  5,603[25]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Beijing"
+Details:
+  China
+  19,618,000
+  Municipality
+  21,893,095
+  16,411
+  1,334[17][18]
+  18,522,000
+  4,284
+  4,324
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Dhaka"
+Details:
+  Bangladesh
+  19,578,000
+  Capital city
+  10,295,407
+  338
+  30,460[26][27]
+  18,627,000
+  619
+  30,092
+  14,543,124[28]
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Osaka"
+Details:
+  Japan
+  19,281,000
+  Designated city
+  2,725,006
+  225
+  12,111[13]
+  15,126,000
+  3,020
+  5,009[j]
+  19,303,000
+  13,228
+  1,459[14]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "New York City"
+Details:
+  United States
+  18,819,000
+  City
+  8,804,190
+  778
+  11,316[29]
+  21,509,000
+  12,093
+  1,779[k]
+  MSA: 19,557,311; CSA: 23,143,097 [30]
+  12,093
+  1,665
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Karachi"
+Details:
+  Pakistan
+  15,400,000
+  Metropolitan city
+  20,382,881
+  3,530
+  5,774[31][32]
+  15,738,000
+  1,124
+  14,002
+  20,382,000
+  3,780
+  5,392[33][34]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Buenos Aires"
+Details:
+  Argentina
+  14,967,000
+  Autonomous city
+  3,054,300
+  203
+  15,046[35]
+  16,710,000
+  3,437
+  4,862
+  12,806,866[36]
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Chongqing"
+Details:
+  China
+  14,838,000
+  Municipality
+  32,054,159
+  82,403
+  389[37][18]
+  12,135,000
+  1,580
+  7,680
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Istanbul"
+Details:
+  Turkey
+  14,751,000
+  Metropolitan municipality
+  15,519,267
+  5,196
+  2,987[38]
+  14,441,000
+  1,471
+  9,817
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Kolkata"
+Details:
+  India
+  15,333,000
+  Municipal corporation
+  4,496,694
+  206
+  21,829[39]
+  21,747,000
+  1,352
+  16,085
+  15,333,000
+  1,887
+  8,126[40]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Manila"
+Details:
+  Philippines
+  13,482,000
+  Capital city
+  1,780,148
+  43
+  41,399[41]
+  24,922,000
+  1,911
+  13,041[l]
+  12,877,253
+  620
+  20,770[41]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Lagos"
+Details:
+  Nigeria
+  13,463,000
+  Metropolitan city
+  \8212
+  \8212
+  \8212
+  16,637,000
+  1,966
+  8,462
+  21,000,000
+  1,171
+  17,933[42]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Rio de Janeiro"
+Details:
+  Brazil
+  13,293,000
+  Municipality
+  6,520,000
+  1,221
+  5,340[43]
+  12,592,000
+  2,020
+  6,234
+  12,644,321
+  5,327
+  2,374[44]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Tianjin"
+Details:
+  China
+  13,215,000
+  Municipality
+  13,866,009
+  11,920
+  1,163[17][18]
+  10,368,000
+  2,813
+  3,686
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Kinshasa"
+Details:
+  DR Congo
+  13,171,000
+  City-province
+  14,565,700
+  9,965
+  1,462[45]
+  12,836,000
+  474
+  27,080
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Guangzhou"
+Details:
+  China
+  12,638,000
+  City (sub-provincial)
+  18,676,605
+  7,434
+  2,512[17]
+  26,940,000
+  4,535
+  5,940[m]
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Los Angeles"
+Details:
+  United States
+  12,458,000
+  City
+  3,990,456
+  1,214
+  3,287[29]
+  15,204,000
+  6,351
+  2,394
+  MSA: 13,291,486; CSA: 18,372,485[46]
+  12,559
+  1,058
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Moscow"
+Details:
+  Russia
+  12,410,000
+  Federal city
+  13,200,000
+  2,511
+  5,257[47][48]
+  17,332,000
+  6,154
+  2,816
+  20,004,462[49]
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Shenzhen"
+Details:
+  China
+  11,908,000
+  City (sub-provincial)
+  17,494,398
+  2,050
+  8,534[17]
+  17,619,000
+  1,803
+  9,772
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Lahore"
+Details:
+  Pakistan
+  11,738,000
+  Metropolitan city
+  13,004,135
+  1,772
+  7,339[50]
+  12,306,000
+  945
+  13,022
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Bangalore"
+Details:
+  India
+  11,440,000
+  Municipal corporation
+  8,443,675
+  709
+  11,909[51]
+  15,386,000
+  1,401
+  10,982
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Paris"
+Details:
+  France
+  10,901,000
+  Commune
+  2,148,271
+  105
+  20,460[52]
+  11,060,000
+  2,853
+  3,877
+  12,244,807
+  18,941
+  646
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Bogot\225"
+Details:
+  Colombia
+  10,574,000
+  Capital District
+  7,963,000
+  1,587
+  5,018[53]
+  10,085,000
+  562
+  17,945
+  12,545,272
+  5,934
+  2,114[54]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Jakarta"
+Details:
+  Indonesia
+  10,517,000
+  Special region
+  10,154,134
+  664
+  15,292[55]
+  33,756,000
+  3,546
+  9,519[n]
+  33,430,285
+  7,063
+  4,733[56]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Chennai"
+Details:
+  India
+  10,456,000
+  Municipal corporation
+  6,727,000
+  426
+  15,791[57][58]
+  12,395,000
+  1,085
+  11,424
+  11,564,000
+  2,280
+  5,072[59]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Lima"
+Details:
+  Peru
+  10,391,000
+  Metropolitan municipality
+  8,894,000
+  2,672
+  3,329[60]
+  10,320,000
+  891
+  11,582
+  9,569,468
+  2,819
+  3,395[61]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Bangkok"
+Details:
+  Thailand
+  10,156,000
+  Special administrative area
+  8,305,218
+  1,569
+  5,293[62]
+  18,007,000
+  3,199
+  5,629
+  16,255,900
+  7,762
+  2,094[63]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Seoul"
+Details:
+  South Korea
+  9,963,000
+  Special city
+  10,013,781
+  605
+  16,552[64]
+  23,016,000
+  2,769
+  8,312
+  25,514,000
+  11,704
+  2,180[64]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Nagoya"
+Details:
+  Japan
+  9,507,000
+  Designated city
+  2,320,361
+  326
+  7,118[13]
+  9,197,000
+  3,704
+  2,483
+  9,363,000
+  7,271
+  1,288[14]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Hyderabad"
+Details:
+  India
+  9,482,000
+  Municipal corporation
+  6,993,262
+  650
+  10,759[65][66]
+  10,494,000
+  1,404
+  7,474
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "London"
+Details:
+  United Kingdom
+  9,046,000
+  Capital city
+  8,825,001
+  1,572
+  5,614[67]
+  11,262,000
+  1,738
+  6,480
+  14,372,596[68]
+  8,382
+  1,715
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Tehran"
+Details:
+  Iran
+  8,896,000
+  Capital city
+  9,033,003
+  751
+  12,028[69][70]
+  14,148,000
+  1,704
+  8,303
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Chicago"
+Details:
+  United States
+  8,864,000
+  City
+  2,746,388
+  589
+  4,663[29]
+  9,057,000
+  7,006
+  1,293
+  MSA: 9,618,502; CSA: 9,806,184[71]
+  18,640
+  516
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Chengdu"
+Details:
+  China
+  8,813,000
+  City (sub-provincial)
+  20,937,757
+  14,378
+  1,456[17]
+  20,937,757
+  1,935
+  10,821
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Nanjing"
+Details:
+  China
+  8,245,000
+  City (sub-provincial)
+  9,314,685
+  6,582
+  1,415[17]
+  8,422,000
+  1,614
+  5,218
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Wuhan"
+Details:
+  China
+  8,176,000
+  City (sub-provincial)
+  12,447,718
+  8,494
+  1,465[17]
+  12,447,718
+  1,722
+  7,229
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Ho Chi Minh City"
+Details:
+  Vietnam
+  8,145,000
+  Municipality
+  7,431,000
+  2,061
+  3,606[72]
+  15,136,000
+  2,165
+  6,991
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Luanda"
+Details:
+  Angola
+  7,774,000
+  Municipality
+  2,165,867
+  116
+  18,671[73]
+  9,051,000
+  1,005
+  9,006
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Ahmedabad"
+Details:
+  India
+  7,681,000
+  Municipal corporation
+  5,570,585
+  464
+  12,006[74]
+  8,009,000
+  404
+  19,824
+  6,300,000[75]
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Kuala Lumpur"
+Details:
+  Malaysia
+  7,564,000
+  City
+  1,768,000
+  243
+  7,276[76]
+  8,911,000
+  2,163
+  4,120
+  7,200,000
+  2,793
+  2,578[77]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Xi'an"
+Details:
+  China
+  7,444,000
+  City (sub-provincial)
+  12,183,280
+  10,135
+  1,202[17]
+  12,328,000
+  1,826
+  6,751
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Hong Kong"
+Details:
+  China
+  7,429,000
+  Special administrative region
+  7,298,600
+  1,104
+  6,611[78][79]
+  7,450,000
+  290
+  25,690
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Dongguan"
+Details:
+  China
+  7,360,000
+  Prefecture-level city
+  10,466,625
+  2,465
+  4,246[17]
+  10,646,000
+  1,759
+  6,052
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Hangzhou"
+Details:
+  China
+  7,236,000
+  City (sub-provincial)
+  11,936,010
+  16,596
+  719[17]
+  9,523,000
+  1,344
+  7,086
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Foshan"
+Details:
+  China
+  7,236,000
+  Prefecture-level city
+  9,498,863
+  3,848
+  2,469[17]
+  \8212[o]
+  \8212
+  \8212
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Shenyang"
+Details:
+  China
+  6,921,000
+  City (sub-provincial)
+  8,294,000
+  12,980
+  639[17]
+  7,964,000
+  1,551
+  5,135[p]
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Riyadh"
+Details:
+  Saudi Arabia
+  6,907,000
+  Municipality
+  6,694,000
+  1,913
+  3,499[80]
+  7,237,000
+  1,673
+  4,326
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Baghdad"
+Details:
+  Iraq
+  6,812,000
+  Urban governorate
+  8,126,755
+  5,200
+  1,563[81]
+  6,183,000
+  694
+  8,909
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Santiago"
+Details:
+  Chile
+  6,680,000
+  City (commune)
+  236,453
+  22
+  10,748[82]
+  7,171,000
+  1,147
+  6,252
+  7,112,808
+  15,403
+  462[83]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Surat"
+Details:
+  India
+  6,564,000
+  Municipal corporation
+  4,466,826
+  327
+  13,660[84]
+  6,538,000
+  238
+  27,471
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Madrid"
+Details:
+  Spain
+  6,497,000
+  Municipality
+  3,266,126
+  606
+  5,390[85]
+  6,211,000
+  1,365
+  4,550
+  6,641,649
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Suzhou"
+Details:
+  China
+  6,339,000
+  Prefecture-level city
+  12,748,262
+  8,488
+  1,502[17]
+  6,031,000
+  1,386
+  4,351
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Pune"
+Details:
+  India
+  6,276,000
+  Municipal corporation
+  3,124,458
+  276
+  11,321[86]
+  8,231,000
+  650
+  12,663
+  7,276,000
+  7,256
+  1,003[87]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Harbin"
+Details:
+  China
+  6,115,000
+  City (sub-provincial)
+  10,635,971
+  53,068
+  200[17]
+  3,830,000
+  671
+  5,708
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Houston"
+Details:
+  United States
+  6,115,000
+  City
+  2,325,502
+  1,553
+  1,497[29]
+  6,500,000
+  4,931
+  1,318
+  6,997,384
+  21,395
+  327[88]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Dallas"
+Details:
+  United States
+  6,099,000
+  City
+  1,345,047
+  882
+  1,525[29]
+  6,950,000
+  5,278
+  1,317[q]
+  7,470,158
+  22,463
+  333[89]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Toronto"
+Details:
+  Canada
+  6,082,000
+  City
+  2,731,571
+  630
+  4,336[90][91]
+  6,771,000
+  2,344
+  2,889
+  5,928,040
+  5,906
+  1,004[92]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Dar es Salaam"
+Details:
+  Tanzania
+  6,048,000
+  City
+  5,383,728
+  1,393
+  3,865[93]
+  7,962,000
+  961
+  8,285
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Miami"
+Details:
+  United States
+  6,036,000
+  City
+  470,914
+  93
+  5,069[29]
+  6,058,000
+  3,313
+  1,829
+  6,158,824
+  15,890
+  388
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Belo Horizonte"
+Details:
+  Brazil
+  5,972,000
+  City
+  2,502,557
+  331
+  7,563
+  5,328,000
+  1,287
+  4,140
+  5,156,217
+  9,459
+  545
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Singapore"
+Details:
+  Singapore
+  5,792,000
+  Country
+  5,638,700
+  726
+  7,770
+  5,983,000
+  523
+  11,440
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Philadelphia"
+Details:
+  United States
+  5,695,000
+  Consolidated city-county
+  1,526,006
+  370
+  4,129
+  5,799,000
+  5,429
+  1,068
+  MSA: 6,096,120; CSA: 7,381,187
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Atlanta"
+Details:
+  United States
+  5,572,000
+  City
+  498,715
+  354
+  1,408
+  5,478,000
+  7,400
+  740
+  5,949,951
+  21,690
+  274
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Fukuoka"
+Details:
+  Japan
+  5,551,000
+  Designated city
+  1,588,924
+  343
+  4,627
+  2,286,000
+  505
+  4,527
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Khartoum"
+Details:
+  Sudan
+  5,534,000
+  \8212
+  1,410,858[94]
+  \8212
+  \8212
+  7,869,000
+  1,031
+  7,632
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Barcelona"
+Details:
+  Spain
+  5,494,000
+  Municipality
+  1,620,343
+  101
+  15,980[95]
+  4,800,000
+  1,072
+  4,478
+  5,474,482[96]
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Johannesburg"
+Details:
+  South Africa
+  5,486,000
+  Metropolitan municipality
+  4,803,262
+  1,643
+  2,924[97]
+  14,586,000
+  4,040
+  3,610[r]
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Saint Petersburg"
+Details:
+  Russia
+  5,383,000
+  Federal city
+  5,601,911
+  1,400
+  4,001[98]
+  5,445,000
+  1,510
+  3,606
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Qingdao"
+Details:
+  China
+  5,381,000
+  City (sub-provincial)
+  10,071,722
+  11,229
+  897[99]
+  6,229,000
+  1,759
+  3,541
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Dalian"
+Details:
+  China
+  5,300,000
+  City (sub-provincial)
+  7,450,785
+  13,742
+  542[100]
+  4,135,000
+  1,044
+  3,961
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Washington"
+Details:
+  United States
+  5,207,000
+  Federal district
+  702,455
+  177
+  3,969[29]
+  7,631,000
+  5,501
+  1,387[s]
+  6,263,245
+  17,009
+  368[101]
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Yangon"
+Details:
+  Myanmar
+  5,157,000
+  City
+  4,728,524[102]
+  \8212
+  \8212
+  6,874,000
+  666
+  10,321
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Alexandria"
+Details:
+  Egypt
+  5,086,000
+  Urban governorate
+  5,441,866
+  2,300
+  2,366[103]
+  4,712,000
+  293
+  16,082
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Jinan"
+Details:
+  China
+  5,052,000
+  City (sub-provincial)
+  9,202,432
+  10,244
+  898[17][18]
+  4,017,000
+  932
+  4,310
+  \8212
+  \8212
+  \8212
+Timestamp: 2024-04-06 18:28:22
+
+Name: "Guadalajara"
+Details:
+  Mexico
+  5,023,000
+  Municipality
+  1,385,621
+  151
+  9,176[21]
+  5,525,000
+  816
+  6,771
+  5,286,642
+  3,560
+  1,485
+Timestamp: 2024-04-06 18:28:22
+
+
