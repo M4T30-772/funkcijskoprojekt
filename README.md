@@ -1,0 +1,2 @@
+# funkcijskoprojekt
+s
